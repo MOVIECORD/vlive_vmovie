@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FA1A3/board/3641?lang=ko</id>
-    <title>V SCREEN ─ Media Board</title>
-    <updated>2021-10-07T07:46:34.918Z</updated>
+    <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
+    <title>V MOVIE ─ Media Board</title>
+    <updated>2021-10-07T07:50:09.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
     <entry>
@@ -27,21 +27,21 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
+        <title type="html"><![CDATA[(FULL) 'The Miracle' Cup Quiz! Movie Talk Live]]></title>
         <id>https://www.vlive.tv/post/1-25001517</id>
         <link href="https://www.vlive.tv/post/1-25001517"/>
         <updated>2021-09-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(FULL) '보이스' 무비토크 라이브]]></title>
+        <title type="html"><![CDATA[(FULL) 'On the Line' Movietalk Live]]></title>
         <id>https://www.vlive.tv/post/0-24961828</id>
         <link href="https://www.vlive.tv/post/0-24961828"/>
         <updated>2021-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['리스펙트' 'Think' 뮤직 클립]]></title>
+        <title type="html"><![CDATA['Respect' 'Think' Music Video]]></title>
         <id>https://www.vlive.tv/post/1-25148027</id>
         <link href="https://www.vlive.tv/post/1-25148027"/>
         <updated>2021-09-02T00:00:00.000Z</updated>
@@ -55,28 +55,28 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['리스펙트' 소울의 여왕 탄생 영상]]></title>
+        <title type="html"><![CDATA['Respect' Trailer]]></title>
         <id>https://www.vlive.tv/post/1-25001646</id>
         <link href="https://www.vlive.tv/post/1-25001646"/>
         <updated>2021-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['인질' 황정민의 보석함 오픈 영상]]></title>
+        <title type="html"><![CDATA['Hostage: Missing Celebrity' Trailer]]></title>
         <id>https://www.vlive.tv/post/0-24983827</id>
         <link href="https://www.vlive.tv/post/0-24983827"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(예고) '보이스' 무비토크 라이브]]></title>
+        <title type="html"><![CDATA[(Preview) 'On the Line' Movietalk Live]]></title>
         <id>https://www.vlive.tv/post/0-24962556</id>
         <link href="https://www.vlive.tv/post/0-24962556"/>
         <updated>2021-08-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['스파이더맨: 노 웨이 홈' 티저 예고편]]></title>
+        <title type="html"><![CDATA['Spider-Man: No Way Home' Teaser Trailer]]></title>
         <id>https://www.vlive.tv/post/1-24946500</id>
         <link href="https://www.vlive.tv/post/1-24946500"/>
         <updated>2021-08-24T00:00:00.000Z</updated>
