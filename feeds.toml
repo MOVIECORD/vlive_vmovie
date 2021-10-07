@@ -1,6 +1,6 @@
 [notice]
-title = "V SCREEN ─ Notice"
-url = "https://www.vlive.tv/channel/FA1A3/board/171?lang=ko"
+title = "V MOVIE ─ Notice"
+url = "https://www.vlive.tv/channel/FA1A3/board/171"
 entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li"
 titleSelector = "//a/div/div[1]/div[1]/strong"
 linkSelector = "//a[@class='post_area--1y4Lh']"
@@ -11,8 +11,8 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [media]
-title = "V SCREEN ─ Media Board"
-url = "https://www.vlive.tv/channel/FA1A3/board/3641?lang=ko"
+title = "V MOVIE ─ Media Board"
+url = "https://www.vlive.tv/channel/FA1A3/board/3641"
 entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[contains(@class,'post_item')]"
 titleSelector = "//a/div/div[1]/div/strong"
 linkSelector = "//a[@class='post_area--3dKbo']"
