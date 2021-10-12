@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2021-10-12T03:15:44.437Z</updated>
+    <updated>2021-10-12T04:19:13.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'The Last Duel' Movie Talk Live]]></title>
+        <id>https://www.vlive.tv/post/1-25794477</id>
+        <link href="https://www.vlive.tv/post/1-25794477"/>
+        <updated>2021-10-12T04:19:12.641Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['007 노 타임 투 다이' 007 레거시 영상]]></title>
         <id>https://www.vlive.tv/post/0-25655544</id>
@@ -73,13 +80,6 @@
         <id>https://www.vlive.tv/post/1-24946500</id>
         <link href="https://www.vlive.tv/post/1-24946500"/>
         <updated>2021-10-08T10:17:27.038Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) 'SINKHOLE' THANK YOU ALL Movietalk Live]]></title>
-        <id>https://www.vlive.tv/post/1-24725420</id>
-        <link href="https://www.vlive.tv/post/1-24725420"/>
-        <updated>2021-10-08T12:23:33.969Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
