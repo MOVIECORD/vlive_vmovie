@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2021-10-21T05:14:00.679Z</updated>
+    <updated>2021-10-21T06:18:08.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['After We Fell' 10-minute Highlight]]></title>
+        <id>https://www.vlive.tv/post/0-26088123</id>
+        <link href="https://www.vlive.tv/post/0-26088123"/>
+        <updated>2021-10-21T06:18:07.538Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(FULL) '2021 부일영화상' 부일영화상 시상식]]></title>
         <id>https://www.vlive.tv/post/1-25793825</id>
@@ -72,13 +79,6 @@
         <title type="html"><![CDATA['Respect' 'Think' Music Video]]></title>
         <id>https://www.vlive.tv/post/1-25148027</id>
         <link href="https://www.vlive.tv/post/1-25148027"/>
-        <updated>2021-10-08T10:17:27.031Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(예고) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
-        <id>https://www.vlive.tv/post/1-25001483</id>
-        <link href="https://www.vlive.tv/post/1-25001483"/>
         <updated>2021-10-08T10:17:27.031Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
