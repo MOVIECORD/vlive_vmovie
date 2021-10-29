@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2021-10-29T08:41:22.097Z</updated>
+    <updated>2021-10-29T09:37:37.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연애 빠진 로맨스' 캐릭터 프로필 영상]]></title>
+        <id>https://www.vlive.tv/post/0-26219891</id>
+        <link href="https://www.vlive.tv/post/0-26219891"/>
+        <updated>2021-10-29T09:37:36.657Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Ghostbusters: Afterlife' Main Trailer]]></title>
         <id>https://www.vlive.tv/post/0-26217704</id>
@@ -94,13 +101,6 @@
         <id>https://www.vlive.tv/post/1-25373563</id>
         <link href="https://www.vlive.tv/post/1-25373563"/>
         <updated>2021-10-22T23:14:59.549Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) 'The Miracle' Cup Quiz! Movie Talk Live]]></title>
-        <id>https://www.vlive.tv/post/1-25001517</id>
-        <link href="https://www.vlive.tv/post/1-25001517"/>
-        <updated>2021-10-22T23:14:59.550Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
