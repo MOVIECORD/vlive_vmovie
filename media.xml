@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2021-11-09T07:35:37.818Z</updated>
+    <updated>2021-11-09T08:41:37.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/1-26382461</id>
+        <link href="https://www.vlive.tv/post/1-26382461"/>
+        <updated>2021-11-09T08:41:37.338Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Time Is Up' 10-minute Highlight]]></title>
         <id>https://www.vlive.tv/post/0-26293689</id>
