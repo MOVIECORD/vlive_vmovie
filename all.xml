@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vmovie/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-17T01:35:00.598Z</updated>
+    <updated>2021-11-17T02:48:19.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V MOVIE ─ Notice)]]></title>
@@ -142,6 +142,20 @@
         <id>https://www.vlive.tv/post/1-12559236</id>
         <link href="https://www.vlive.tv/post/1-12559236"/>
         <updated>2021-11-03T08:40:48.148Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V MOVIE ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-26382701</id>
+        <link href="https://www.vlive.tv/post/1-26382701"/>
+        <updated>2021-11-17T02:48:18.925Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Spider-Man: No Way Home' Second Trailer (V MOVIE ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/0-26484458</id>
+        <link href="https://www.vlive.tv/post/0-26484458"/>
+        <updated>2021-11-17T02:48:18.925Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
