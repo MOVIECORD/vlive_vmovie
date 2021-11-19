@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vmovie/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-19T12:55:17.121Z</updated>
+    <updated>2021-11-19T13:38:53.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V MOVIE ─ Notice)]]></title>
@@ -145,13 +145,6 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['유체이탈자' 무비토크 라이브 (V MOVIE ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26402854</id>
-        <link href="https://www.vlive.tv/post/0-26402854"/>
-        <updated>2021-11-19T12:55:16.383Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V MOVIE ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/1-26382701</id>
         <link href="https://www.vlive.tv/post/1-26382701"/>
@@ -282,6 +275,13 @@
         <id>https://www.vlive.tv/post/1-25984790</id>
         <link href="https://www.vlive.tv/post/1-25984790"/>
         <updated>2021-10-22T23:14:59.546Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'The Last Duel' Movie Talk Live (V MOVIE ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-25794477</id>
+        <link href="https://www.vlive.tv/post/1-25794477"/>
+        <updated>2021-11-19T13:38:52.816Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
