@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vmovie/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-14T02:52:07.061Z</updated>
+    <updated>2021-12-14T03:38:23.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE ─ Notice)]]></title>
@@ -145,7 +145,7 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['피부를 판 남자' 10분 하이라이트 (V MOVIE ─ Media Board)]]></title>
+        <title type="html"><![CDATA['The Man Who Sold His Skin' 10-minute Highlight (V MOVIE ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/1-26936208</id>
         <link href="https://www.vlive.tv/post/1-26936208"/>
         <updated>2021-12-14T02:52:06.326Z</updated>
