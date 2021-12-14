@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vmovie/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-14T01:41:30.702Z</updated>
+    <updated>2021-12-14T02:52:07.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE ─ Notice)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['피부를 판 남자' 10분 하이라이트 (V MOVIE ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-26936208</id>
+        <link href="https://www.vlive.tv/post/1-26936208"/>
+        <updated>2021-12-14T02:52:06.326Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(Preview) 'Kingmaker' Movie Talk Live (V MOVIE ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/0-26843122</id>
         <link href="https://www.vlive.tv/post/0-26843122"/>
@@ -275,13 +282,6 @@
         <id>https://www.vlive.tv/post/0-26088783</id>
         <link href="https://www.vlive.tv/post/0-26088783"/>
         <updated>2021-11-29T03:39:01.369Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['ANNETTE' 10-minute Highlight (V MOVIE ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/1-26165786</id>
-        <link href="https://www.vlive.tv/post/1-26165786"/>
-        <updated>2021-11-29T03:39:01.371Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>

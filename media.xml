@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2021-12-14T01:41:30.700Z</updated>
+    <updated>2021-12-14T02:52:07.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피부를 판 남자' 10분 하이라이트]]></title>
+        <id>https://www.vlive.tv/post/1-26936208</id>
+        <link href="https://www.vlive.tv/post/1-26936208"/>
+        <updated>2021-12-14T02:52:06.326Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Preview) 'Kingmaker' Movie Talk Live]]></title>
         <id>https://www.vlive.tv/post/0-26843122</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-26088783</id>
         <link href="https://www.vlive.tv/post/0-26088783"/>
         <updated>2021-11-29T03:39:01.369Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['ANNETTE' 10-minute Highlight]]></title>
-        <id>https://www.vlive.tv/post/1-26165786</id>
-        <link href="https://www.vlive.tv/post/1-26165786"/>
-        <updated>2021-11-29T03:39:01.371Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
