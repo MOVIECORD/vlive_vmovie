@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vmovie/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-16T11:34:29.253Z</updated>
+    <updated>2021-12-16T12:56:23.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE ─ Notice)]]></title>
@@ -145,13 +145,6 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Kingmaker' Movie Talk Live (V MOVIE ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26878495</id>
-        <link href="https://www.vlive.tv/post/0-26878495"/>
-        <updated>2021-12-16T11:34:28.557Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['특송' 끝장 추격 캐릭터 예고편 (V MOVIE ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/0-26960201</id>
         <link href="https://www.vlive.tv/post/0-26960201"/>
@@ -282,6 +275,13 @@
         <id>https://www.vlive.tv/post/0-26217704</id>
         <link href="https://www.vlive.tv/post/0-26217704"/>
         <updated>2021-11-29T03:39:01.367Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Preview) 'Nothing Serious' Movie Talk Live (V MOVIE ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-26223751</id>
+        <link href="https://www.vlive.tv/post/1-26223751"/>
+        <updated>2021-12-16T12:56:23.001Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
