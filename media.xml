@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2022-02-17T11:37:08.346Z</updated>
+    <updated>2022-02-17T12:55:24.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편']]></title>
-        <id>https://www.vlive.tv/post/0-27940576</id>
-        <link href="https://www.vlive.tv/post/0-27940576"/>
-        <updated>2022-02-17T10:40:26.080Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브]]></title>
         <id>https://www.vlive.tv/post/0-27418884</id>
@@ -143,6 +136,13 @@
         <id>https://www.vlive.tv/post/1-26382461</id>
         <link href="https://www.vlive.tv/post/1-26382461"/>
         <updated>2021-11-29T03:39:01.357Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Time Is Up' 10-minute Highlight]]></title>
+        <id>https://www.vlive.tv/post/0-26293689</id>
+        <link href="https://www.vlive.tv/post/0-26293689"/>
+        <updated>2022-02-17T12:55:23.991Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
