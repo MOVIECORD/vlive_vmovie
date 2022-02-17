@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vmovie/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T09:39:30.709Z</updated>
+    <updated>2022-02-17T10:40:26.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE ─ Notice)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편' (V MOVIE ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/0-27940576</id>
+        <link href="https://www.vlive.tv/post/0-27940576"/>
+        <updated>2022-02-17T10:40:26.080Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브 (V MOVIE ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/0-27418884</id>
         <link href="https://www.vlive.tv/post/0-27418884"/>
@@ -275,13 +282,6 @@
         <id>https://www.vlive.tv/post/1-26382461</id>
         <link href="https://www.vlive.tv/post/1-26382461"/>
         <updated>2022-01-06T17:04:54.664Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Time Is Up' 10-minute Highlight (V MOVIE ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26293689</id>
-        <link href="https://www.vlive.tv/post/0-26293689"/>
-        <updated>2022-01-06T17:04:54.665Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
