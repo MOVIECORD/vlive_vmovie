@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FA1A3/board/3641</id>
     <title>V MOVIE ─ Media Board</title>
-    <updated>2022-03-01T23:38:55.222Z</updated>
+    <updated>2022-03-02T01:54:37.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
     <entry>
@@ -83,41 +83,6 @@
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동]]></title>
-        <id>https://www.vlive.tv/post/0-26617318</id>
-        <link href="https://www.vlive.tv/post/0-26617318"/>
-        <updated>2021-11-29T03:39:01.331Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '그 새끼를 죽였어야 했는데' 이가홍]]></title>
-        <id>https://www.vlive.tv/post/0-26617995</id>
-        <link href="https://www.vlive.tv/post/0-26617995"/>
-        <updated>2021-11-29T03:39:01.340Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '떨어져 있어야 가족이다' 김현]]></title>
-        <id>https://www.vlive.tv/post/0-26617808</id>
-        <link href="https://www.vlive.tv/post/0-26617808"/>
-        <updated>2021-11-29T03:39:01.340Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '능력소녀' 김수영]]></title>
-        <id>https://www.vlive.tv/post/0-26617571</id>
-        <link href="https://www.vlive.tv/post/0-26617571"/>
-        <updated>2021-11-29T03:39:01.341Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철]]></title>
-        <id>https://www.vlive.tv/post/1-26623456</id>
-        <link href="https://www.vlive.tv/post/1-26623456"/>
-        <updated>2021-11-29T03:39:01.345Z</updated>
-        <content type="html"><![CDATA[V MOVIE]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['킹메이커' 티저 예고편]]></title>
         <id>https://www.vlive.tv/post/1-26562267</id>
         <link href="https://www.vlive.tv/post/1-26562267"/>
@@ -143,6 +108,41 @@
         <id>https://www.vlive.tv/post/0-26417401</id>
         <link href="https://www.vlive.tv/post/0-26417401"/>
         <updated>2021-11-29T03:39:01.352Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹메이커' 런칭예고편: 선거전쟁]]></title>
+        <id>https://www.vlive.tv/post/0-26413339</id>
+        <link href="https://www.vlive.tv/post/0-26413339"/>
+        <updated>2022-03-02T01:54:37.280Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/1-26382461</id>
+        <link href="https://www.vlive.tv/post/1-26382461"/>
+        <updated>2022-03-02T01:54:37.281Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Time Is Up' 10-minute Highlight]]></title>
+        <id>https://www.vlive.tv/post/0-26293689</id>
+        <link href="https://www.vlive.tv/post/0-26293689"/>
+        <updated>2022-03-02T01:54:37.282Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Morbius' Second Trailer]]></title>
+        <id>https://www.vlive.tv/post/1-26297745</id>
+        <link href="https://www.vlive.tv/post/1-26297745"/>
+        <updated>2022-03-02T01:54:37.283Z</updated>
+        <content type="html"><![CDATA[V MOVIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'Nothing Serious' Movie Talk Live]]></title>
+        <id>https://www.vlive.tv/post/1-26183044</id>
+        <link href="https://www.vlive.tv/post/1-26183044"/>
+        <updated>2022-03-02T01:54:37.284Z</updated>
         <content type="html"><![CDATA[V MOVIE]]></content>
     </entry>
 </feed>
